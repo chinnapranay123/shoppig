@@ -1,0 +1,36 @@
+.logo{
+  position: absolute;
+  height: 90%;
+  width: 6%;
+  left: 20px;
+  top: 10%;
+}
+.form-control{
+  position: absolute;
+  left: 25%;
+  border-radius: 3px;
+  width: 600px;
+  margin-left: 20px;
+  top: 5px;
+}
+.search-icon{
+  position: absolute;
+  z-index: 10;
+  right: 36%;
+  top: 17px;
+  color: rgb(7, 109, 70);
+}
+.btn{
+position: absolute;
+top: 2px;
+right: 5%;
+}
+.text{
+  position: absolute;
+  left: 15%;
+  top: 11px;
+}
+.navbar{
+  position:relative;
+
+}
